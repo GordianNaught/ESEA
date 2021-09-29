@@ -1,0 +1,3 @@
+[submodule "JJSON"]
+	path = JJSON
+	url = https://github.com/GordianNaught/JJSON
